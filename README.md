@@ -17,7 +17,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 <p align="center">
 <a href="https://github.com/sharkdp/bat"><b>bat</b></a> - A <code>cat</code> clone with syntax highlighting and Git integration
 <br><br>
-<img src="https://raw.githubusercontent.com/sharkdp/bat/master/doc/screenshot.png" width="600" />
+<img src="https://imgur.com/rGsdnDe.png" width="600" />
 </p>
 
 <p align="center">
@@ -57,9 +57,9 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 </p>
 
 <p align="center">
-<a href="https://github.com/sxyazi/yazi"><b>yazi</b></a> - Blazing fast terminal file manager with async I/O and image preview
+<a href="https://github.com/jesseduffield/lazydocker"><b>lazydocker</b></a> - The lazier way to manage everything Docker
 <br><br>
-<img src="https://raw.githubusercontent.com/sxyazi/yazi/main/assets/showcase.png" width="600" />
+<img src="https://user-images.githubusercontent.com/8456633/59972109-8e9c8480-95cc-11e9-8350-38f7f86ba76d.png" width="600" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 <p align="center">
 <a href="https://github.com/sharkdp/hyperfine"><b>hyperfine</b></a> - A command-line benchmarking tool with statistical analysis
 <br><br>
-<img src="https://raw.githubusercontent.com/sharkdp/hyperfine/master/doc/screenshot.png" width="600" />
+<img src="https://i.imgur.com/z19OYxE.gif" width="600" />
 </p>
 
 <p align="center">
