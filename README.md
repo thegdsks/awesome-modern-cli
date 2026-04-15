@@ -17,7 +17,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 <p align="center">
 <a href="https://github.com/sharkdp/bat"><b>bat</b></a> - A <code>cat</code> clone with syntax highlighting and Git integration
 <br><br>
-<img src="https://camo.githubusercontent.com/a9789c5200bdb0a22602643d7bf85f0f424ddd4259e763abc865609010c5e228/68747470733a2f2f696d6775722e636f6d2f724773646e44652e706e67" width="600" />
+<img src="https://raw.githubusercontent.com/sharkdp/bat/master/doc/screenshot.png" width="600" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 <p align="center">
 <a href="https://github.com/sxyazi/yazi"><b>yazi</b></a> - Blazing fast terminal file manager with async I/O and image preview
 <br><br>
-<img src="https://raw.githubusercontent.com/sxyazi/yazi/main/assets/preview.png" width="600" />
+<img src="https://raw.githubusercontent.com/sxyazi/yazi/main/assets/showcase.png" width="600" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 <p align="center">
 <a href="https://github.com/sharkdp/hyperfine"><b>hyperfine</b></a> - A command-line benchmarking tool with statistical analysis
 <br><br>
-<img src="https://camo.githubusercontent.com/9bac9fc730637ebd007bdc51c6ec43d1e49b6f7ed92f00e087b71ec9c175fda6/68747470733a2f2f692e696d6775722e636f6d2f7a31394f5978452e676966" width="600" />
+<img src="https://raw.githubusercontent.com/sharkdp/hyperfine/master/doc/screenshot.png" width="600" />
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 
 - [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees with fuzzy search. `Rust`
 - [eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls with colors, icons, and git integration. `Rust`
-- [lla](https://github.com/triyanox/lla) - A fast ls alternative with a plugin system for extended functionality. `Rust`
+- [lla](https://github.com/chaqchase/lla) - A fast ls alternative with a plugin system for extended functionality. `Rust`
 - [lsd](https://github.com/lsd-rs/lsd) - The next gen ls command with pretty colors and file icons. `Rust`
 - [pls](https://github.com/pls-rs/pls) - ls for the pros, with developer-friendly features and Nerd Font icons. `Rust`
 - [tre](https://github.com/dduan/tre) - A tree command improved with git awareness and editor integration. `Rust`
@@ -180,7 +180,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 - [nnn](https://github.com/jarun/nnn) - The unorthodox terminal file manager, tiny and blazing fast. `C`
 - [nomino](https://github.com/yaa110/nomino) - Batch rename utility using regex, sort, and map. `Rust`
 - [rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm with a graveyard for recovery. `Rust`
-- [superfile](https://github.com/MHNightCat/superfile) - Pretty and modern terminal file manager. `Go`
+- [superfile](https://github.com/yorukot/superfile) - Pretty and modern terminal file manager. `Go`
 - [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer. `Rust`
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager with async I/O and image preview. `Rust`
 
@@ -237,7 +237,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor with built-in LSP and tree-sitter. `Rust`
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi-selection first design. `C++`
 - [Lapce](https://github.com/lapce/lapce) - A lightning-fast and powerful code editor with native GUI. `Rust`
-- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor, replaces nano. `Go`
+- [micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor, replaces nano. `Go`
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability with Lua plugin system. `C`
 - [ox](https://github.com/curlpipe/ox) - An independent terminal text editor, simple and practical. `Rust`
 - [zed](https://github.com/zed-industries/zed) - A high-performance multiplayer code editor from the creators of Atom. `Rust`
@@ -255,7 +255,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable by flattening it to discrete assignments. `Go`
 - [jless](https://github.com/PaulJuliusMartinez/jless) - A command-line JSON viewer with vim-like navigation. `Rust`
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq expressions with live preview. `Rust`
-- [jq](https://github.com/stedolan/jq) - The original lightweight command-line JSON processor. `C`
+- [jq](https://github.com/jqlang/jq) - The original lightweight command-line JSON processor. `C`
 - [jsongrep](https://github.com/micahkepe/jsongrep) - Fast search tool for JSON, YAML, and TOML with path query syntax. `Rust`
 - [qsv](https://github.com/dathere/qsv) - A high-performance CSV toolkit, xsv fork with 34+ extra commands. `Rust`
 - [sc-im](https://github.com/andmarti1424/sc-im) - A vim-like spreadsheet calculator for the terminal. `C`
@@ -395,9 +395,9 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 
 > Replacements for `curl` and `wget`.
 
-- [aria2](https://github.com/tatsuhiro-t/aria2) - Ultra-fast download utility supporting HTTP, FTP, BitTorrent, and Metalink. `C++`
+- [aria2](https://github.com/aria2/aria2) - Ultra-fast download utility supporting HTTP, FTP, BitTorrent, and Metalink. `C++`
 - [curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. `Go`
-- [httpie](https://github.com/httpie/httpie) - A modern, user-friendly command-line HTTP client for the API era. `Python`
+- [httpie](https://github.com/httpie/cli) - A modern, user-friendly command-line HTTP client for the API era. `Python`
 - [xh](https://github.com/ducaale/xh) - A friendly and fast tool for sending HTTP requests, an HTTPie reimplementation. `Rust`
 
 **[⬆ back to top](#contents)**
@@ -407,7 +407,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 > Replacements for Postman and API debugging tools.
 
 - [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client, free, offline, and account-less. `Rust`
-- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - An interactive HTTP client with autocomplete and syntax highlighting. `Python`
+- [HTTP Prompt](https://github.com/httpie/http-prompt) - An interactive HTTP client with autocomplete and syntax highlighting. `Python`
 - [posting](https://github.com/darrenburns/posting) - A powerful HTTP client that lives in your terminal. `Python`
 
 **[⬆ back to top](#contents)**
@@ -443,8 +443,8 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 > Replacements for `scp` and `rsync`.
 
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another. `Go`
-- [portal](https://github.com/ZinoKader/portal) - Send files between computers through an encrypted peer-to-peer tunnel. `Go`
-- [rclone](https://github.com/ncw/rclone) - Sync files with any cloud provider, an rsync for cloud storage. `Go`
+- [portal](https://github.com/SpatiumPortae/portal) - Send files between computers through an encrypted peer-to-peer tunnel. `Go`
+- [rclone](https://github.com/rclone/rclone) - Sync files with any cloud provider, an rsync for cloud storage. `Go`
 - [termscp](https://github.com/veeso/termscp) - TUI file transfer and explorer with SCP, SFTP, FTP, and S3 support. `Rust`
 
 **[⬆ back to top](#contents)**
@@ -613,7 +613,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 > Terminal-based chat and email clients.
 
 - [aerc](https://aerc-mail.org/) - A pretty good email client for the terminal. `Go`
-- [gomuks](https://github.com/tulir/gomuks) - A Matrix client for the terminal. `Go`
+- [gomuks](https://github.com/gomuks/gomuks) - A Matrix client for the terminal. `Go`
 - [himalaya](https://github.com/pimalaya/himalaya) - CLI email client supporting IMAP, JMAP, and Maildir with scriptable interface. `Rust`
 - [iamb](https://iamb.chat) - A Matrix client for Vim addicts. `Rust`
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for the text console. `C++`
@@ -627,7 +627,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 - [calcure](https://github.com/anufrievroman/calcure) - Modern TUI calendar and task manager. `Python`
 - [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything from the terminal. `C++`
 - [clipse](https://github.com/savedra1/clipse) - TUI clipboard manager. `Go`
-- [envio](https://github.com/envio-cli/envio) - Modern environment variable manager with encrypted profiles. `Rust`
+- [envio](https://github.com/humblepenguinn/envio) - Modern environment variable manager with encrypted profiles. `Rust`
 - [espanso](https://github.com/espanso/espanso) - A cross-platform text expander. `Rust`
 - [gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts with prompts, spinners, and input widgets. `Go`
 - [mods](https://github.com/charmbracelet/mods) - AI on the command line, pipe stdin to LLMs and get structured output. `Go`
@@ -697,7 +697,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides, and gizmos.
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
-- [Charm](https://charm.sh) - Tools to make the command line glamorous (bubbletea, lipgloss, glow, etc.).
+- [Charm](https://charm.land) - Tools to make the command line glamorous (bubbletea, lipgloss, glow, etc.).
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line in one page.
 
 ---
