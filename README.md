@@ -386,6 +386,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 - [gping](https://github.com/orf/gping) - Ping, but with a graph. `Rust`
 - [miniserve](https://github.com/svenstaro/miniserve) - Serve files over HTTP from the terminal with a single command. `Rust`
 - [netscanner](https://github.com/Chleba/netscanner) - A TUI network scanner. `Rust`
+- [nibble](https://github.com/backendsystems/nibble) - A fast local network scanner with hardware vendor detection and service names. `Go`
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Monitor your network traffic easily with a cross-platform TUI. `Rust`
 - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark. `Go`
 - [trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool combining ping and traceroute with rich TUI. `Rust`
