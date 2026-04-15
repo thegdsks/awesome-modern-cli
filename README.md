@@ -234,6 +234,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 
 - [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal inspired by Vi/Vim. `Rust`
 - [edit](https://github.com/microsoft/edit) - A simple terminal text editor from Microsoft, paying homage to MS-DOS Editor. `Rust`
+- [fresh](https://github.com/sinelaw/fresh) - A TUI code editor with IDE features like LSP, git integration, and file tree. `Rust`
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor with built-in LSP and tree-sitter. `Rust`
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi-selection first design. `C++`
 - [Lapce](https://github.com/lapce/lapce) - A lightning-fast and powerful code editor with native GUI. `Rust`
