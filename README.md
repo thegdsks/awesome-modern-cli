@@ -271,7 +271,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 
 > Modern shells and prompt customization.
 
-- [elvish](https://github.com/elves/elvish) - An expressive shell with a real programming language built in. `Go`
+- [elvish](https://github.com/elves/elvish) - An expressive shell with a real programming language built-in. `Go`
 - [fish](https://github.com/fish-shell/fish-shell) - The user-friendly command-line shell with autosuggestions. `Rust`
 - [nushell](https://github.com/nushell/nushell) - A new type of shell with structured data pipelines. `Rust`
 - [oh-my-posh](https://ohmyposh.dev) - A prompt theme engine for any shell with extensive themes. `Go`
