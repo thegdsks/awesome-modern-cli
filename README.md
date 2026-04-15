@@ -1,10 +1,23 @@
 <div align="center">
 
-# Awesome Modern CLI
+```
+   ╭─────────────────────────────────────────╮
+   │                                         │
+   │   █▀█ █ █ █ █▀▀ █▀ █▀█ █▀▄▀█ █▀▀        │
+   │   █▀█ ▀▄▀▄▀ ██▄ ▄█ █▄█ █ ▀ █ ██▄        │
+   │                                         │
+   │   █▀▄▀█ █▀█ █▀▄ █▀▀ █▀█ █▄ █  █▀▀ █   █ │
+   │   █ ▀ █ █▄█ █▄▀ ██▄ █▀▄ █ ▀█  █▄▄ █▄▄ █ │
+   │                                         │
+   ╰─────────────────────────────────────────╯
+```
 
 A curated list of modern alternatives to classic command-line tools.
 
-The terminal is having a renaissance. Faster, prettier, smarter tools are replacing the Unix classics you've used for decades. This list helps you find them.
+[![Stars](https://img.shields.io/github/stars/thegdsks/awesome-modern-cli?style=flat-square&color=yellow)](https://github.com/thegdsks/awesome-modern-cli/stargazers)
+[![License](https://img.shields.io/badge/license-CC0-blue?style=flat-square)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/thegdsks/awesome-modern-cli?style=flat-square)](https://github.com/thegdsks/awesome-modern-cli/commits/main)
+[![Tools](https://img.shields.io/badge/tools-284+-green?style=flat-square)](#contents)
 
 [Contribute](CONTRIBUTING.md)
 
@@ -14,77 +27,87 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 
 ### Highlights
 
-<p align="center">
-<a href="https://github.com/sharkdp/bat"><b>bat</b></a> - A <code>cat</code> clone with syntax highlighting and Git integration
-<br><br>
-<img src="https://imgur.com/rGsdnDe.png" width="600" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sharkdp/bat"><b>bat</b></a><br>
+      <sub>cat with syntax highlighting</sub><br><br>
+      <a href="https://github.com/sharkdp/bat"><img src="https://imgur.com/rGsdnDe.png" width="400" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/aristocratos/btop"><b>btop</b></a><br>
+      <sub>beautiful system monitor</sub><br><br>
+      <a href="https://github.com/aristocratos/btop"><img src="https://raw.githubusercontent.com/aristocratos/btop/main/Img/normal.png" width="400" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jesseduffield/lazygit"><b>lazygit</b></a><br>
+      <sub>terminal UI for git</sub><br><br>
+      <a href="https://github.com/jesseduffield/lazygit"><img src="https://raw.githubusercontent.com/jesseduffield/lazygit/assets/staging.gif" width="400" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dandavison/delta"><b>delta</b></a><br>
+      <sub>syntax-aware diff viewer</sub><br><br>
+      <a href="https://github.com/dandavison/delta"><img src="https://user-images.githubusercontent.com/52205/86275526-76792100-bba1-11ea-9e78-6be9baa80b29.png" width="400" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/starship/starship"><b>starship</b></a><br>
+      <sub>customizable shell prompt</sub><br><br>
+      <a href="https://github.com/starship/starship"><img src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif" width="400" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/junegunn/fzf"><b>fzf</b></a><br>
+      <sub>fuzzy finder for everything</sub><br><br>
+      <a href="https://github.com/junegunn/fzf"><img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width="400" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/orf/gping"><b>gping</b></a><br>
+      <sub>ping with a graph</sub><br><br>
+      <a href="https://github.com/orf/gping"><img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="400" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jesseduffield/lazydocker"><b>lazydocker</b></a><br>
+      <sub>terminal UI for Docker</sub><br><br>
+      <a href="https://github.com/jesseduffield/lazydocker"><img src="https://user-images.githubusercontent.com/8456633/59972109-8e9c8480-95cc-11e9-8350-38f7f86ba76d.png" width="400" /></a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<a href="https://github.com/eza-community/eza"><b>eza</b></a> - A modern replacement for <code>ls</code> with colors, icons, and git integration
-<br><br>
-<img src="https://raw.githubusercontent.com/eza-community/eza/main/docs/images/screenshots.png" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/dandavison/delta"><b>delta</b></a> - A syntax-highlighting pager for git, diff, and grep output
-<br><br>
-<img src="https://user-images.githubusercontent.com/52205/86275526-76792100-bba1-11ea-9e78-6be9baa80b29.png" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/jesseduffield/lazygit"><b>lazygit</b></a> - A simple terminal UI for git commands
-<br><br>
-<img src="https://raw.githubusercontent.com/jesseduffield/lazygit/assets/staging.gif" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/aristocratos/btop"><b>btop</b></a> - A resource monitor with beautiful TUI and extensive features
-<br><br>
-<img src="https://raw.githubusercontent.com/aristocratos/btop/main/Img/normal.png" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/junegunn/fzf"><b>fzf</b></a> - A general-purpose command-line fuzzy finder
-<br><br>
-<img src="https://raw.githubusercontent.com/junegunn/i/master/fzf-preview.png" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ajeetdsouza/zoxide"><b>zoxide</b></a> - A smarter <code>cd</code> command that learns your habits
-<br><br>
-<img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/jesseduffield/lazydocker"><b>lazydocker</b></a> - The lazier way to manage everything Docker
-<br><br>
-<img src="https://user-images.githubusercontent.com/8456633/59972109-8e9c8480-95cc-11e9-8350-38f7f86ba76d.png" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/starship/starship"><b>starship</b></a> - Minimal, blazing-fast, and infinitely customizable prompt for any shell
-<br><br>
-<img src="https://raw.githubusercontent.com/starship/starship/master/media/demo.gif" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/sharkdp/hyperfine"><b>hyperfine</b></a> - A command-line benchmarking tool with statistical analysis
-<br><br>
-<img src="https://i.imgur.com/z19OYxE.gif" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/orf/gping"><b>gping</b></a> - Ping, but with a graph
-<br><br>
-<img src="https://raw.githubusercontent.com/orf/gping/master/images/readme-example.gif" width="600" />
-</p>
-
-<p align="center">
-<a href="https://github.com/BurntSushi/ripgrep"><b>ripgrep</b></a> - An extremely fast alternative to <code>grep</code> that respects gitignore
-<br><br>
-<img src="https://user-images.githubusercontent.com/200613/90223748-ecaeab80-de0e-11ea-9140-ac9219f5747c.gif" width="600" />
-</p>
+<details>
+<summary><b>More highlights</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/eza-community/eza"><b>eza</b></a><br>
+      <sub>modern ls replacement</sub><br><br>
+      <a href="https://github.com/eza-community/eza"><img src="https://raw.githubusercontent.com/eza-community/eza/main/docs/images/screenshots.png" width="400" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/BurntSushi/ripgrep"><b>ripgrep</b></a><br>
+      <sub>extremely fast grep</sub><br><br>
+      <a href="https://github.com/BurntSushi/ripgrep"><img src="https://user-images.githubusercontent.com/200613/90223748-ecaeab80-de0e-11ea-9140-ac9219f5747c.gif" width="400" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ajeetdsouza/zoxide"><b>zoxide</b></a><br>
+      <sub>smarter cd</sub><br><br>
+      <a href="https://github.com/ajeetdsouza/zoxide"><img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="400" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sharkdp/hyperfine"><b>hyperfine</b></a><br>
+      <sub>command benchmarking</sub><br><br>
+      <a href="https://github.com/sharkdp/hyperfine"><img src="https://i.imgur.com/z19OYxE.gif" width="400" /></a>
+    </td>
+  </tr>
+</table>
+</details>
 
 ---
 
@@ -709,6 +732,10 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=thegdsks/awesome-modern-cli&type=Date)](https://star-history.com/#thegdsks/awesome-modern-cli&Date)
 
 ## License
 
