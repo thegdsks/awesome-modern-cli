@@ -1,0 +1,51 @@
+name: Suggest a tool
+description: Suggest a modern CLI tool to add to the list
+title: "Add [tool name]"
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: e.g. ripgrep
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/org/repo
+    validations:
+      required: true
+
+  - type: input
+    id: replaces
+    attributes:
+      label: What classic tool does it replace?
+      placeholder: e.g. grep, or "NEW" if no direct replacement
+
+  - type: input
+    id: language
+    attributes:
+      label: Implementation language
+      placeholder: e.g. Rust, Go, Zig
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Why is it awesome?
+      description: One or two sentences on what makes this tool stand out.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: The tool has 100+ GitHub stars
+          required: true
+        - label: The tool is actively maintained (commit in the last 12 months)
+          required: true
+        - label: I have used this tool personally
