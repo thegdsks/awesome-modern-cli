@@ -578,6 +578,7 @@ The terminal is having a renaissance. Faster, prettier, smarter tools are replac
 - [mdBook](https://github.com/rust-lang/mdBook) - Create books from Markdown, like GitBook but in Rust. `Rust`
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line. `Rust`
 - [tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast tldr client with offline caching. `Rust`
+- [tectonic](https://github.com/tectonic-typesetting/tectonic) - A self-contained TeX/LaTeX engine that downloads packages on demand. `C`
 - [thefuck](https://github.com/nvbn/thefuck) - Corrects your previous console command when you mistype. `Python`
 - [tldr](https://github.com/tldr-pages/tldr) - Simplified man pages with practical examples. `Multi`
 - [Typst](https://github.com/typst/typst) - A modern markup-based typesetting system, a LaTeX alternative. `Rust`
