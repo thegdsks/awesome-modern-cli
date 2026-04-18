@@ -3,7 +3,7 @@
 # Awesome Modern CLI
 
 [![Stars](https://img.shields.io/github/stars/thegdsks/awesome-modern-cli?style=for-the-badge&color=yellow)](https://github.com/thegdsks/awesome-modern-cli/stargazers)
-[![Tools](https://img.shields.io/badge/tools-284+-green?style=for-the-badge)](#contents)
+[![Tools](https://img.shields.io/badge/tools-285+-green?style=for-the-badge)](#contents)
 [![License](https://img.shields.io/badge/license-CC0-blue?style=for-the-badge)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/thegdsks/awesome-modern-cli?style=for-the-badge)](https://github.com/thegdsks/awesome-modern-cli/commits/main)
 
@@ -394,6 +394,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 > Replacements for `ping`, `traceroute`, and network diagnostics.
 
+- [copyparty](https://github.com/9001/copyparty) - Portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, and media indexing. `Python`
 - [gping](https://github.com/orf/gping) - Ping, but with a graph. `Rust`
 - [miniserve](https://github.com/svenstaro/miniserve) - Serve files over HTTP from the terminal with a single command. `Rust`
 - [netscanner](https://github.com/Chleba/netscanner) - A TUI network scanner. `Rust`
