@@ -3,7 +3,7 @@
 # Awesome Modern CLI
 
 [![Stars](https://img.shields.io/github/stars/thegdsks/awesome-modern-cli?style=for-the-badge&color=yellow)](https://github.com/thegdsks/awesome-modern-cli/stargazers)
-[![Tools](https://img.shields.io/badge/tools-284+-green?style=for-the-badge)](#contents)
+[![Tools](https://img.shields.io/badge/tools-285+-green?style=for-the-badge)](#contents)
 [![License](https://img.shields.io/badge/license-CC0-blue?style=for-the-badge)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/thegdsks/awesome-modern-cli?style=for-the-badge)](https://github.com/thegdsks/awesome-modern-cli/commits/main)
 
@@ -612,6 +612,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 - [asciinema](https://github.com/asciinema/asciinema) - Record and share terminal sessions as lightweight text. `Rust`
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output. `Go`
+- [Kew](https://codeberg.org/ravachol/kew) - A terminal music player that plays anything from your library with a single command. `C`
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client. `Rust`
 - [oxipng](https://github.com/oxipng/oxipng) - Multithreaded lossless PNG optimizer. `Rust`
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert, and manipulate colors. `Rust`
