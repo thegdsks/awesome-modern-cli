@@ -264,7 +264,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [dyff](https://github.com/homeport/dyff) - A diff tool for YAML files with semantic awareness. `Go`
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer and processor with interactive mode. `Go`
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable by flattening it to discrete assignments. `Go`
-- [jaq](https://github.com/01mf02/jaq) - A jq clone focused on correctness, speed, and simplicity, with a drop-in replacement for most queries. `Rust`
+- [jaq](https://github.com/01mf02/jaq) - A jq clone focused on correctness, speed, and simplicity; a near drop-in replacement for `jq` for most queries. `Rust`
 - [jless](https://github.com/PaulJuliusMartinez/jless) - A command-line JSON viewer with vim-like navigation. `Rust`
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq expressions with live preview. `Rust`
 - [jq](https://github.com/jqlang/jq) - The original lightweight command-line JSON processor. `C`
