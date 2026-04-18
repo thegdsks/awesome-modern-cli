@@ -613,6 +613,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 - [asciinema](https://github.com/asciinema/asciinema) - Record and share terminal sessions as lightweight text. `Rust`
 - [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output. `Go`
+- [kew](https://codeberg.org/ravachol/kew) - A terminal music player that plays anything from your library with a single command. `C`
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client. `Rust`
 - [oxipng](https://github.com/oxipng/oxipng) - Multithreaded lossless PNG optimizer. `Rust`
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert, and manipulate colors. `Rust`
