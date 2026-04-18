@@ -393,8 +393,9 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 ## Network Tools
 
-> Replacements for `ping`, `traceroute`, and network diagnostics.
+> Tools for network diagnostics, scanning, traffic analysis, and file serving/transfer.
 
+- [copyparty](https://github.com/9001/copyparty) - Portable file server with resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, and media indexing. `Python`
 - [gping](https://github.com/orf/gping) - Ping, but with a graph. `Rust`
 - [miniserve](https://github.com/svenstaro/miniserve) - Serve files over HTTP from the terminal with a single command. `Rust`
 - [netscanner](https://github.com/Chleba/netscanner) - A TUI network scanner. `Rust`
