@@ -3,7 +3,7 @@
 # Awesome Modern CLI
 
 [![Stars](https://img.shields.io/github/stars/thegdsks/awesome-modern-cli?style=for-the-badge&color=yellow)](https://github.com/thegdsks/awesome-modern-cli/stargazers)
-[![Tools](https://img.shields.io/badge/tools-284+-green?style=for-the-badge)](#contents)
+[![Tools](https://img.shields.io/badge/tools-285+-green?style=for-the-badge)](#contents)
 [![License](https://img.shields.io/badge/license-CC0-blue?style=for-the-badge)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/thegdsks/awesome-modern-cli?style=for-the-badge)](https://github.com/thegdsks/awesome-modern-cli/commits/main)
 
@@ -264,6 +264,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [dyff](https://github.com/homeport/dyff) - A diff tool for YAML files with semantic awareness. `Go`
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer and processor with interactive mode. `Go`
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable by flattening it to discrete assignments. `Go`
+- [jaq](https://github.com/01mf02/jaq) - A jq clone focused on correctness, speed, and simplicity, with a drop-in replacement for most queries. `Rust`
 - [jless](https://github.com/PaulJuliusMartinez/jless) - A command-line JSON viewer with vim-like navigation. `Rust`
 - [jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq expressions with live preview. `Rust`
 - [jq](https://github.com/jqlang/jq) - The original lightweight command-line JSON processor. `C`
