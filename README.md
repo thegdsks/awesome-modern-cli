@@ -545,6 +545,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 - [k9s](https://github.com/derailed/k9s) - TUI for managing Kubernetes clusters. `Go`
 - [kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes. `Rust`
+- [lfk](https://github.com/janosmiko/lfk) - Yazi-inspired, vim-like keyboard focused Lightning Fast Kubernetes navigator. `Go`
 
 **[⬆ back to top](#contents)**
 
