@@ -234,6 +234,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer with colored output. `Rust`
 - [lnav](https://lnav.org/) - An advanced log file viewer with automatic format detection. `C++`
 - [mdcat](https://github.com/swsnr/mdcat) - Render Markdown in the terminal with syntax highlighting, links, and inline images. `Rust`
+- [ov](https://github.com/noborus/ov) - A feature-rich terminal pager. Replaces less. `Go`
 - [tailspin](https://github.com/bensadeh/tailspin) - A log file highlighter that works out of the box. `Rust`
 
 **[⬆ back to top](#contents)**
