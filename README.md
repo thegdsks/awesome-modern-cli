@@ -555,6 +555,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 > Replacements for `psql`, `mysql`, and database GUIs.
 
+- [dakera-cli](https://github.com/dakera-ai/dakera-cli) - Rust CLI for self-hosted agent memory management. Query, store, inspect, and configure memory decay on a Dakera MCP memory server from the command line. `Rust`
 - [harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for your terminal. `Python`
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting. `Python`
 - [lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool. `Go`
