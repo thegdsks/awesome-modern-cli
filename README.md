@@ -449,7 +449,6 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 > Replacements for `tar`, `gzip`, and `unzip`.
 
-- [crabz](https://github.com/sstadick/crabz) - Multi-threaded compression and decompression CLI tool. `Rust`
 - [ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression, smart format detection. `Rust`
 
 **[⬆ back to top](#contents)**
