@@ -250,6 +250,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multi-selection first design. `C++`
 - [Lapce](https://github.com/lapce/lapce) - A lightning-fast and powerful code editor with native GUI. `Rust`
 - [micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor, replaces nano. `Go`
+- [microNeo](https://github.com/sollawen/microNeo) - A fork of Micro with in-place Markdown rendering — view and edit in the same window. `Go`
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability with Lua plugin system. `C`
 - [ox](https://github.com/curlpipe/ox) - An independent terminal text editor, simple and practical. `Rust`
 - [zed](https://github.com/zed-industries/zed) - A high-performance multiplayer code editor from the creators of Atom. `Rust`
