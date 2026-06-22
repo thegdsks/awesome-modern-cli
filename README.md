@@ -704,6 +704,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [httm](https://github.com/kimono-koans/httm) - Interactive file-level Time Machine-like tool for ZFS/btrfs. `Rust`
 - [prqlc](https://github.com/PRQL/prql) - PRQL compiler, a pipelined modern alternative to SQL. `Rust`
 - [rustic](https://github.com/rustic-rs/rustic) - Fast, encrypted, deduplicated backups, a restic alternative. `Rust`
+- [supercli](https://github.com/javimosch/supercli) - Universal CLI router with 10,000+ tools. One command pattern (`sc <ns> <res> <action>`) for every tool, JSON-by-default output, agent-native discovery. `Zig/Node.js`
 - [uutils coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (adopted by Ubuntu). `Rust`
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. `Rust`
 - [wttr.in](https://github.com/chubin/wttr.in) - The right way to check the weather from the terminal. `Python`
