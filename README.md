@@ -9,9 +9,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/thegdsks/awesome-modern-cli?style=for-the-badge)](https://github.com/thegdsks/awesome-modern-cli/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/thegdsks/awesome-modern-cli/pulls)
 
-A curated list of modern alternatives to classic command-line tools.
-
-Faster, prettier, smarter replacements for the Unix utilities you use every day.
+Faster, prettier, smarter alternatives to the classic command-line Unix utilities you use every day.
 
 [What is this?](about.md) · [Contribution guide](CONTRIBUTING.md) · [Code of conduct](code-of-conduct.md)
 
