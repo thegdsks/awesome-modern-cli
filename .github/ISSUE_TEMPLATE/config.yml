@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question / discuss an idea
+    url: https://github.com/thegdsks/awesome-modern-cli/discussions
+    about: For open-ended questions or ideas that aren't a tool suggestion or a bug report, use Discussions instead.
