@@ -332,6 +332,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [gitui](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. `Rust`
 - [jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS with simpler CLI, first-class conflicts, and auto-rebasing. `Rust`
 - [lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands. `Go`
+- [livediff](https://github.com/SoCkEt7/Livediff) - Real-time terminal file diff monitoring TUI. `Rust`
 - [onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool showing repo stats. `Rust`
 - [sapling](https://github.com/facebook/sapling) - A scalable, user-friendly source control system from Meta. `Rust`
 - [serie](https://github.com/lusingander/serie) - A rich git commit graph viewer for the terminal. `Rust`
