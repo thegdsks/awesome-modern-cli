@@ -51,6 +51,7 @@ A tool must meet **all** of the following to be included:
 - Multiple tools in a single PR
 - Self-promotion without disclosure (mention if you are the author)
 - Duplicate entries
+- Low-effort or automated submissions (e.g. mass PRs opened for Hacktoberfest credit) that don't meet the quality criteria above will be closed without further comment
 
 ## Updating an Existing Entry
 

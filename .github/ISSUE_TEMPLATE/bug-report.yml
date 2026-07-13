@@ -1,0 +1,32 @@
+name: Report a problem with an entry
+description: Flag a broken link, dead/archived tool, or incorrect entry in the list
+title: "[Entry] "
+labels: ["bug"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry?
+      placeholder: e.g. crabz, under Compression
+    validations:
+      required: true
+
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options:
+        - Broken/dead link
+        - Repository archived or abandoned (no commits in 12+ months)
+        - Incorrect description
+        - Duplicate entry
+        - Wrong category / not alphabetical
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Anything else that helps us fix it, e.g. the correct URL or a link to the last commit.

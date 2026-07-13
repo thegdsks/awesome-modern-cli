@@ -2,10 +2,12 @@
 
 # Awesome Modern CLI
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/thegdsks/awesome-modern-cli?style=for-the-badge&color=yellow)](https://github.com/thegdsks/awesome-modern-cli/stargazers)
 [![Tools](https://img.shields.io/badge/tools-285+-green?style=for-the-badge)](#contents)
 [![License](https://img.shields.io/badge/license-CC0-blue?style=for-the-badge)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/thegdsks/awesome-modern-cli?style=for-the-badge)](https://github.com/thegdsks/awesome-modern-cli/commits/main)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 A curated list of modern alternatives to classic command-line tools.
 
