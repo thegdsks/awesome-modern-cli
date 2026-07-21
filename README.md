@@ -535,6 +535,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 > Docker TUIs and container management.
 
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics. `Go`
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI pentest platform and MCP host, covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [dive](https://github.com/wagoodman/dive) - Tool for exploring each layer in a Docker image. `Go`
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything Docker. `Go`
 - [nerdctl](https://github.com/containerd/nerdctl) - Docker-compatible CLI for containerd with Compose and rootless support. `Go`
