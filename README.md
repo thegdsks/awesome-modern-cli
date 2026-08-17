@@ -360,7 +360,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [bottom](https://github.com/ClementTsang/bottom) - A cross-platform graphical process/system monitor. `Rust`
 - [btop](https://github.com/aristocratos/btop) - A resource monitor with beautiful TUI and extensive features. `C++`
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - A fast system information tool, neofetch replacement. `C`
-- [ferrisfetch](https://github.com/Kk376/ferrisfetch) - Fast and lightweight system information tool with Ferris ASCII art. Replaces `neofetch`. `Rust`
+- [ferrisfetch](https://github.com/kk376/ferrisfetch) - Fast and lightweight system information tool with Ferris ASCII art. Replaces `neofetch`. `Rust`
 - [glances](https://github.com/nicolargo/glances) - An eye on your system with a top/htop alternative and web mode. `Python`
 - [gotop](https://github.com/xxxserxxx/gotop) - Terminal-based graphical activity monitor. `Go`
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor. `Rust`
