@@ -92,7 +92,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
     <td align="center">
       <a href="https://github.com/ajeetdsouza/zoxide"><b>zoxide</b></a><br>
       <sub>smarter cd</sub><br><br>
-      <a href="https://github.com/ajeetdsouza/zoxide"><img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.webp" width="400" /></a>
+      <a href="https://github.com/ajeetdsouza/zoxide"><img src="https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/contrib/tutorial.gif" width="400" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/sharkdp/hyperfine"><b>hyperfine</b></a><br>
