@@ -731,7 +731,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=thegdsks/awesome-modern-cli&type=Date)](https://star-history.com/#thegdsks/awesome-modern-cli&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=thegdsks/awesome-modern-cli&type=Date)](https://star-history.dera.page/#thegdsks/awesome-modern-cli&type=Date)
 
 ## License
 
