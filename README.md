@@ -403,6 +403,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph. `Rust`
 - [miniserve](https://github.com/svenstaro/miniserve) - Serve files over HTTP from the terminal with a single command. `Rust`
 - [netscanner](https://github.com/Chleba/netscanner) - A TUI network scanner. `Rust`
+- [Network Doctor](https://github.com/heymaikol/network-doctor) - Diagnoses interface, DNS, TCP, TLS, HTTP, proxy, and path MTU failures with actionable fixes. Replaces manual `ping`, `dig`, and `curl` troubleshooting. `Go`
 - [nibble](https://github.com/backendsystems/nibble) - A fast local network scanner with hardware vendor detection and service names. `Go`
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Monitor your network traffic easily with a cross-platform TUI. `Rust`
 - [termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark. `Go`
