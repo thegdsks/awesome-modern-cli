@@ -1,0 +1,9 @@
+# lychee link checker config
+# https://lychee.cli.rs/#/usage/config
+
+# GitHub's stargazers badge link returns a 404 to lychee's bot-like requests
+# even though it resolves fine in a browser. Exclude it to stop the chronic
+# false-positive failures on every push/PR/schedule run.
+exclude = [
+  "^https://github\\.com/thegdsks/awesome-modern-cli/stargazers$",
+]

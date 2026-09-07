@@ -1,0 +1,20 @@
+name: Awesome Lint
+
+# main currently fails awesome-lint (295 errors, 13 warnings as of 2026-09-06,
+# mostly trailing `Language` tags on every entry -- see PR #26 for the fix).
+# Until that cleanup lands, this check is informational-only (continue-on-error)
+# so it doesn't block every PR through no fault of the contributor. Once main
+# passes cleanly, remove `continue-on-error` to make this a hard gate.
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run awesome-lint
+        run: npx --yes awesome-lint
