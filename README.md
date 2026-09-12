@@ -561,6 +561,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 - [harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for your terminal. `Python`
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting. `Python`
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source Git GUI and multi-worktree client with an amazing UI built for parallel agentic workflows, featuring programmatic verifications and review loops
 - [lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool. `Go`
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting. `Python`
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting. `Python`
