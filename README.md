@@ -641,6 +641,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [himalaya](https://github.com/pimalaya/himalaya) - CLI email client supporting IMAP, JMAP, and Maildir with scriptable interface. `Rust`
 - [iamb](https://iamb.chat) - A Matrix client for Vim addicts. `Rust`
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for the text console. `C++`
+- [tlgr](https://github.com/tlgrcli/tlgr) - Telegram client for scripts and AI agents with JSON output, a background daemon, and webhook event push. Replaces `telegram-cli`. `Python`
 
 **[⬆ back to top](#contents)**
 
