@@ -175,6 +175,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 - [fd](https://github.com/sharkdp/fd) - A simple, fast, and user-friendly alternative to find. `Rust`
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries. `Rust`
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 **[⬆ back to top](#contents)**
 
