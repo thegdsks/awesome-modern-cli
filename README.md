@@ -725,6 +725,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 - [awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
 - [Charm](https://charm.land) - Tools to make the command line glamorous (bubbletea, lipgloss, glow, etc.).
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line in one page.
+- [The Terminal Index](https://cli.masoko.net) - Curated directory of 260+ CLI and TUI tools with screenshots, ratings and "alternatives to" pages for classic Unix tools.
 
 ---
 
